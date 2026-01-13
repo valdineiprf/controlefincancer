@@ -36,7 +36,7 @@ const initialTransactions: Transaction[] = [
   },
   {
     id: '4',
-    description: 'Freelance site',
+    description: 'Freelance WebApp',
     value: 800,
     category: 'Freelance',
     type: 'income',
