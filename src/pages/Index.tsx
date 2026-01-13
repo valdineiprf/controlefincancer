@@ -20,7 +20,7 @@ const initialTransactions: Transaction[] = [
   },
   {
     id: '2',
-    description: 'Supermercado',
+    description: 'Supermercado 099',
     value: 450,
     category: 'Alimentação',
     type: 'expense',
